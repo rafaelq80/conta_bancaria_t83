@@ -124,7 +124,7 @@ ContaPoupanca --> Conta
 
 Para executar os códigos localmente, você precisará de:
 
-- [Java JDK 21+](https://www.oracle.com/java/technologies/downloads/#java21)
+- [Java JDK 17+](https://www.oracle.com/java/technologies/downloads/#java17)
 - [Eclipse](https://eclipseide.org/) ou [Eclipse STS](https://spring.io/tools)
 
 <br />
