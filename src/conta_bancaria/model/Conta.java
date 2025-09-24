@@ -1,6 +1,6 @@
 package conta_bancaria.model;
 
-public class Conta {
+public abstract class Conta {
 
 	// Atributos da Classe
 	
@@ -79,7 +79,7 @@ public class Conta {
 	public void depositar(float valor) {
 		this.saldo = this.saldo + valor;
 	}
-	
+		
 	public void visualizar() {
 		
 		String tipo = " ";
