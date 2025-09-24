@@ -67,7 +67,7 @@ public class Menu {
 		
 		System.out.println("\n\nInstanciar Objeto da Classe ContaPoupnca");
 		
-		ContaPoupanca cp1 = new ContaPoupanca(4, 456, 1, "Maria da Silva", 100000.00f, 15);
+		ContaPoupanca cp1 = new ContaPoupanca(4, 456, 2, "Maria da Silva", 100000.00f, 15);
 				
 		cp1.visualizar();
 				
