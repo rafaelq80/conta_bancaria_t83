@@ -1,6 +1,10 @@
 # Projeto Conta Bancária - Java
 
 <br />
+<div align="center">
+	<img src="https://i.imgur.com/IaD4lwg.png" title="source: imgur.com" width="35%"/>
+</div>
+<br />
 
 <div align="center">
   <img src="https://img.shields.io/github/languages/top/rafaelq80/conta_bancaria_t83?style=flat-square" />
